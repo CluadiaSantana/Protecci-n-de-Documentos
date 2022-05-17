@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "user": "Claudia",
+      "password": "$argon2i$v=19$m=32768,t=4,p=1$EkIV4JWwLdfnZqreBzZVmA$9xUExn6x3p9jmdggpPkzDhFX5yf6dXh4qDh7B4tyJMo"
+    },
+    {
+      "user": "paty",
+      "password": "$argon2i$v=19$m=32768,t=4,p=1$lNhxezaqRBT6qNN/NXgexg$VQGkoIvqnCTyp5n44LthNRTSacw47RHWQUuUHPav1hU"
+    }
+  ]
+}
